@@ -15,3 +15,5 @@ Test data to be used for automated testing with the nf-core pipelines
 ### BAM data
 
 `JK2782_*.bam` : Above paired-end data but already merged and mapped to the reference genome.
+
+`JK2067_downsampled_s0.1.bam`: BAM file subsampled from Lamnidis et al. 2018, Nature Communications. Subsampling performed with `samtools view -s 0.2`. Resulting file size 665KB.
