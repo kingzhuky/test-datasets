@@ -1,0 +1,5 @@
+ID,input_name,ip_name,Group_ID
+control_1,control_1.input,control_1.ip,control
+control_2,control_2.input,control_2.ip,control
+treated_1,treated_1.input,treated_1.ip,treated
+treated_2,treated_2.input,treated_2.ip,treated
